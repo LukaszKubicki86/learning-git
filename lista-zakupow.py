@@ -15,3 +15,4 @@ Warzywniak1=len(shopping_dict["warzywniak"])
 suma = Piekarnia1+Warzywniak1
 tekst = f"w sumie kupuję {suma} produktów"
 print (tekst)
+print("test")
